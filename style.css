@@ -1,0 +1,140 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+h1{ 
+    font-size: 60px;
+    padding-left: 60px;
+    font-weight: bold;
+}
+    h2{
+        font-size: 25px;
+        text-align: center;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+        h3{
+            margin: 20px 0px 0px 0px; 
+        }
+            .project-content
+            {
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+li{
+    margin-left:20px;
+}
+
+hr{
+    border: 3px solid #163270;
+    border-radius: 10px;
+    margin: 20px 20px 20px 60px;
+}
+
+section{
+    margin:20px;
+    padding:20px;
+    background-color:whitesmoke;
+}
+footer{
+    text-align: center;
+    margin:20px;
+    padding:20px;
+}
+
+
+#wrapper{
+    width: 900px;
+    margin: 0px auto;
+    padding: 10px;
+    font-family:system-ui;
+    text-align: justify;
+    color:#0e0c0cb9;
+}
+
+#display-photo{
+    min-height: 200px;
+    width: 230px;
+    display: inline-block;  
+}
+
+#personal-info{
+    height: 170px;
+    width: 650px;
+    display: inline-block;
+    vertical-align: top;
+    padding-top:10px;
+    color:#163270;  
+}
+
+#aspire{
+    font-weight: bold;
+    font-size: 24px;
+    padding-left: 60px;
+}
+
+#contact-details{
+    font-weight: bold;
+    color:#080808b9;
+    text-align: justify;
+    font-size: 18px;
+    padding-left: 60px;
+}
+
+#programming-languages{
+    display: inline-block;
+    height: auto;
+    width:370px;
+    padding:10px;
+    margin:5px;
+  
+}
+    #programming-languages img{
+        width:70px;
+        height:70px;
+        display: inline-block;
+    }
+
+#my-projects{
+    display: inline-block;
+    width:420px;
+    padding:10px;
+    margin-left:35px;
+    vertical-align: top;
+    background-color:whitesmoke;
+}
+
+
+
+.dp{
+    width:230px;
+    height:200px;
+    object-fit:cover;
+    object-position: 80% 0 ; 
+}
+
+#footer-logo img{
+    width:35px;
+    height:35px;
+    margin:3px;
+    vertical-align: center;
+    position: relative;
+    top:13px;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
